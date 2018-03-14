@@ -1,0 +1,16 @@
+MNIST Generic.ipynb
+MNIST SoftMax.ipynb
+MNIST_data
+MnistHeatInfer.ipynb
+SavedMnistHMap
+TensorFLow.ipynb
+__pycache__
+checkpoint
+last_saved_model
+mnist.py
+mnist_Trained-100.data-00000-of-00001
+mnist_Trained-100.index
+mnist_Trained-100.meta
+mnist_Trained-1000.data-00000-of-00001
+mnist_Trained-1000.index
+mnist_Trained-1000.meta
